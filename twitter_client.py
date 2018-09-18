@@ -2,6 +2,7 @@ import os
 import sys
 from tweepy import API
 from tweepy import OAuthHandler
+from tweepy import Cursor
 
 
 def get_twitter_auth():
@@ -28,3 +29,4 @@ def get_twitter_client():
     auth = get_twitter_auth()
     client = API(auth)
     return client
+
