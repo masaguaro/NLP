@@ -40,3 +40,5 @@ config.rst
 
 package-lock.json
 raw_data/*
+reference/*
+reference_tweepy/*
