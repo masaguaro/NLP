@@ -42,3 +42,5 @@ package-lock.json
 raw_data/*
 reference/*
 reference_tweepy/*
+reference_hands_on/*
+public_raw_data/*
